@@ -463,7 +463,7 @@ if __name__ == "__main__":
 # =========================================================
 
 def run_multi_seed(
-        env_name="HalfCheetah-v5",
+        env_name="Swimmer-v5",
         seeds=[seed1, seed2, seed3, seed4, seed5],
         total_episodes=6000,
         hidden_dim=128,
